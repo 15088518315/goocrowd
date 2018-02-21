@@ -1,1 +1,1 @@
-# goocrowd blog support by tale
+# goocrowd blog support by Tale
