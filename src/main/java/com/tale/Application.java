@@ -17,5 +17,7 @@ public class Application {
         TaleLoader.init(blade);
         blade.use(new ValidatorMiddleware(), new CsrfMiddleware()).start(Application.class, args);
     }
+    
+    
 
 }
